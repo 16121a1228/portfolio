@@ -1,0 +1,22 @@
+*{
+    background:url("https://images.theconversation.com/files/228194/original/file-20180718-142435-176mlrj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip");
+    color:Black;
+    backdrop-filter: blur(100px);
+
+}
+p{
+    text-align: center;
+    padding-left: 35% ;
+    padding-top: 25%;
+    padding-right: 50%;
+    font-size: 15px;
+    
+}
+ul{
+    
+    padding-left: 40% ;
+    padding-top: 15%;
+    padding-right: 25%;
+    font-size: 25px;
+    text-align: center;
+}
